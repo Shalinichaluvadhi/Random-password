@@ -1,0 +1,1 @@
+The "Random Password Generator" is a program that will generate strong random passwords of the specified length with the help of the alphabet, numbers, and symbols. Let us first understand the prerequisites and build the intuition of the program so that the implementation can become simpler.
